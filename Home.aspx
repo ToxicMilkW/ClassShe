@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/PM.master" AutoEventWireup="true" CodeFile="Home.aspx.cs" Inherits="Home" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/ClassShe/PM.master" AutoEventWireup="true" CodeFile="Home.aspx.cs" Inherits="Home" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
@@ -11,6 +11,11 @@
       </ul>
       <div class="imgNum">
          <a href="#" class="active"></a><a href="#"></a>
+      </div>
+   </div>
+   <div>
+      <div>
+         <
       </div>
    </div>
 </div>

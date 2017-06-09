@@ -113,6 +113,11 @@
         </asp:ContentPlaceHolder>
     
     </div>
+    <div class="footer">
+       <p><a href="#">交友乐简介</a><i>|</i><a href="#">公告</a><i>|</i><a href="#">联系我们</a><i>|</i>客服热线：131-1550-5073</p>
+       <p>Copyright © 2017-2017 交友乐版权所有&nbsp;&nbsp;&nbsp;京ICP备0283472号&nbsp;&nbsp;&nbsp;京ICP证B2837-2947号&nbsp;&nbsp;&nbsp;北京市公安局XX分局备案编号：928347263528</p>
+       <p><a href="#"><img src="#" alt="logo" /></a></p>
+    </div>
     </form>
 </body>
 </html>
